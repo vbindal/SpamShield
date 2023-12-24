@@ -29,13 +29,3 @@ SpamShield is a machine learning model designed to detect spam messages.
    - Open the app in your browser and input a message to check if it's spam or not.
 
 Feel free to contribute and improve SpamShield!
-
-👉 [Download SpamShield](#) 👈
-
-## Contributing
-
-If you would like to contribute to SpamShield, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
