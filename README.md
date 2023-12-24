@@ -16,7 +16,7 @@ SpamShield is a machine learning model designed to detect spam messages.
 3. **Install Dependencies:**
    - Install the required dependencies. You can use the following command:
      ```bash
-     pip install -r requirements.txt
+     pip install <dependency>
      ```
 
 4. **Run the App:**
